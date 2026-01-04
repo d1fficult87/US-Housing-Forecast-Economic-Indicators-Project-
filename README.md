@@ -48,7 +48,7 @@ Reference (pre úplnejšie vzťahy):
 - `PLAYER_POSITION`
 
 ### ERD diagram pôvodnej dátovej štruktúry
-![ERD Source](img/erd_schema.png)
+![ERD Source](img/ERD_SCHEMA.png)
 
 * * *
 
