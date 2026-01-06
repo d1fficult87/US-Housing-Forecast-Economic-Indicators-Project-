@@ -282,7 +282,7 @@ ORDER BY total_goals DESC
 LIMIT 10;
 ```
 
-**Interpretácia:** Graf zobrazuje 10 hráčov s najvyšším počtom gólov v dostupných zápasoch.
+**Interpretácia:** Graf zobrazuje 10 hráčov s najvyšším počtom gólov v analyzovanom výbere zápasov. Vizualizácia umožňuje rýchlo identifikovať najproduktívnejších zakončovateľov a porovnať rozdiely medzi hráčmi. Na grafe je typicky vidieť, že niekoľko hráčov výrazne vyčnieva a vytvára “top skupinu”, zatiaľ čo zvyšok rebríčka má často podobné hodnoty. Tento výsledok je užitočný napríklad pri športovom reportingu (kto bol najefektívnejší strelec v dostupných dátach) alebo pri porovnaní hráčov na základe ofenzívneho prínosu.
 
 * * *
 
