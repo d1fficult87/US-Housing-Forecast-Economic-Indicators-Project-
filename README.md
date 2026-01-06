@@ -390,4 +390,4 @@ ORDER BY team_accurate_passes DESC;
 
 * * *
 
-### Autor
+### Autors: Rinat Nevesenko, Yehor Forostiuk
